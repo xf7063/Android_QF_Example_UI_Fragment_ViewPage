@@ -12,6 +12,19 @@
 bin/
 gen/
 
+# eclipse gitignore
+.project
+.classpath
+*.pydevproject
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+
 # Gradle files
 .gradle/
 build/
